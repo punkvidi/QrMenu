@@ -1,0 +1,52 @@
+.head {
+  font-family: sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.category-list {
+  margin-bottom: .75vw;
+  font-size: 3vw;
+  font-weight: 800;
+}
+
+.buttons_ {
+  margin-top: 2vw;
+}
+.menu {
+  background-color: rgb(203, 226, 236);
+  width: 50%;
+}
+
+.menu-items {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: .75vw;
+}
+
+.categories-item {
+  margin-left: .5vw;
+}
+
+.description {
+  font-size: .75vw;
+  margin-bottom: 1vw;
+  margin-left: .6vw;
+}
+
+.item-name {
+  font-size: 1.5vw;
+  margin-bottom: 1vw;
+  margin-left: .5vw;
+}
+
+.item-price-2 {
+  float: right;
+  margin-right: .5vw;
+}
+
+textarea {
+  resize: none;
+  margin-left: .25vw;
+  margin-right: .5vw;
+}
